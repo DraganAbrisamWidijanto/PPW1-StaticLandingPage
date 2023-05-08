@@ -1,0 +1,145 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.section-one-Nc8 {
+  box-sizing: border-box;
+  padding: 8.3rem 16.4rem 31.6rem 14.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 {
+  margin-bottom: 23.3rem;
+  width: 100%;
+  height: 8.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .auto-group-uf6p-PZA {
+  margin-right: 60.4rem;
+  width: 8.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: transparent;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .group-1-BE8 {
+  margin: 3.8rem 0rem 2.8rem 0rem;
+  height: calc(100% - 6.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .group-1-BE8 .actions-sMr {
+  margin-right: 7.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .group-1-BE8 .resources-an4 {
+  margin-right: 7.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .group-1-BE8 .projects-hLt {
+  margin-right: 7.5rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+  border-bottom: none;
+}
+.section-one-Nc8 .auto-group-jxap-vn4 .group-1-BE8 .explore-RXn {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .lorem-ipsum-dolor-wW8 {
+  margin: 0rem 0rem 4.4rem 2rem;
+  font-size: 5.4rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.section-one-Nc8 .ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-Psv {
+  margin: 0rem 0rem 7.3rem 1.9rem;
+  max-width: 53.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.section-one-Nc8 .auto-group-77uh-SLQ {
+  margin: 0rem 42.3rem 0rem 44.1rem;
+  text-decoration: none;
+  width: calc(100% - 86.4rem);
+  height: 6.7rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
